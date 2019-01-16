@@ -1,0 +1,19 @@
+
+body {
+    background-repeat: repeat;
+    background-image: url("pattern.png");
+    background-size: cover;
+}
+
+div {
+  background-color: greenyellow;
+  width: 300px;
+  border: 15px lightgrey;
+  padding: 15px;
+  margin: 15px;
+}
+
+.divbox {
+  text-align: center; 
+  vertical-align: middle;
+}
